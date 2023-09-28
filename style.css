@@ -1,0 +1,45 @@
+.Plant {
+gap: 15px;
+width: 20px;
+height: 20px;
+top: 0;
+
+}
+.Home {
+    margin: 0;
+    width: 44px;
+    height: 19.418px;
+}
+.SingUp {
+    width: 40px;
+    height: 20;
+    color: black;
+    font-family: DM sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: green;
+}
+
+
+
+
+img {
+    width: 557px;
+    height: 719px;
+    flex-shrink: 0;
+    gap: 60%;
+}
+button {
+box-shadow: none;
+
+}
+.Element {
+    display: flex;
+    margin-left: 50px;
+}
+.Delivery {
+    display: flex;
+   margin-left: 50px;
+}
